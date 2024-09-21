@@ -1,0 +1,94 @@
+body {
+  background-color: beige;
+  font-family: 'Makazi-Text', serif;
+  font-size: 30px;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+header > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+nav ul {
+  background-color:darkolivegreen;
+  list-style: none;
+  text-align: center;
+  font-size: 2rem;
+  Margin: 0vw 3vw;
+  padding: 0.75vw 0.75vw;
+  border-radius: 100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  justify-content: space-around;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  text-align: center;
+}
+
+
+section {
+  display: flex;
+  gap: 2rem 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+article {
+  flex: 1;
+}
+
+article img {
+  max-width: 100%;
+  width: 550px;
+  height: 300px;
+}
+
+
+main article {
+  border: 1px solid beige;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+
+footer {
+  display: flex;
+  gap: 2rem 1rem;
+  padding: 1rem;
+  background-color:darkolivegreen;
+}
+
+footer div {
+  flex: 1;
+  text-align: right;
+  color: white;
+  font: bolder;
+  vertical-align: bottom;
+  bottom: 0;
+  right: 0;
+  padding-right: 5px;
+}
+
+.color-me{
+  color:white;
+  font-weight: bolder;
+}
