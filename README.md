@@ -1,10 +1,21 @@
-Persian Restaurant website
+# Persian Restaurant Website
 
-=======================
+## Overview
+This project is a simple front-end application for a Persian restaurant. It showcases the restaurant's menu, ambiance, and contact information, providing users with an engaging experience.
 
-Build a simple front end app for a restaurant
+## Skills Used
+- HTML
+- CSS
 
-Skills
+## Features
+- Responsive design for optimal viewing on various devices
+- Attractive layout to highlight the restaurant's offerings
+- Easy navigation to enhance user experience
 
-HTML 
-CSS
+## Installation
+To view the project, simply clone the repository and open the `index.html` file in your web browser.
+
+```bash
+git clone https://github.com/yourusername/persian-restaurant-website.git
+cd persian-restaurant-website
+open index.html
