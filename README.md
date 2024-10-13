@@ -16,6 +16,6 @@ This project is a simple front-end application for a Persian restaurant. It show
 To view the project, simply clone the repository and open the `index.html` file in your web browser.
 
 ```bash
-git clone https://github.com/yourusername/persian-restaurant-website.git
+git clone https://github.com/parisa-0/persian-restaurant-website.git
 cd persian-restaurant-website
 open index.html
