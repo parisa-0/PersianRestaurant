@@ -2,7 +2,7 @@ Persian Restaurant website
 
 =======================
 
-Build a simple front end app for ba restaurant
+Build a simple front end app for a restaurant
 
 Skills
 
